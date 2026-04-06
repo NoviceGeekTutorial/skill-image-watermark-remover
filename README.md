@@ -1,5 +1,5 @@
 ---
-name: image-watermark-remover-pro
+name: image-watermark-remover-pro 兼容 OpenClow 架构｜
 description: |
   图片无痕去水印 + AI超分辨率 Pro
   
