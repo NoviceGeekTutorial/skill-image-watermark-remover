@@ -209,3 +209,8 @@ result = upscaler.upscale("input.jpg", "output.jpg", scale=2)
   - 实现 AI 超分辨率放大（2x/4x）
   - 支持自动/手动水印检测
   - 支持组合处理（去水印 + 超分）
+ 
+  - 文档版本: v4.0
+最后更新: 2026-04-06
+作者: 萌新极客教程网. 保留所有权利.
+适用系统: Windows / macOS / Linux
